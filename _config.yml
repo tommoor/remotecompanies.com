@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            RemoteCompanies
+title:            Remote Companies
 tagline:          'Work is what you do, not where you go'
 description:      'How the biggest and best distributed teams work'
 url:              http://remotecompanies.com
