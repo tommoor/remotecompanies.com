@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            RemoteCompanies
+tagline:          'Work is what you do, not where you go'
+description:      'How the biggest and best distributed teams work'
+url:              http://remotecompanies.com
+
+author:
+  name:           'Tom Moor'
+  url:            https://twitter.com/tommoor
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/tommoor/remotecompanies.github.com
